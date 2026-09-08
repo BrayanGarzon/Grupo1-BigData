@@ -1,0 +1,663 @@
+﻿id,fecha,producto,categoria,cantidad,precio,ciudad,cliente
+559,2025-04-19,Disco SSD 500GB,Almacenamiento,3.0,231700.0,Cali,Cliente_161
+454,,Memoria RAM 16GB,Componentes,3.0,270800.0,Barranquilla,Cliente_137
+499,2025-06-17,Disco SSD 500GB,Almacenamiento,6.0,225200.0,Bogotá,Cliente_028
+178,2025-11-24,Parlante Bluetooth,Audio,1.0,267600.0,Ibagué,Cliente_104
+119,2025-02-10,Mouse Logitech,Accesorios,4.0,79300.0,Cali,Cliente_155
+548,2025-08-02,Laptop Lenovo IdeaPad,Tecnología,7.0,2413500.0,Villavicencio,Cliente_145
+264,2025-11-26,Audífonos JBL,Audio,3.0,320600.0,Medellín,Cliente_057
+338,2025-11-08,Laptop Lenovo IdeaPad,Tecnología,1.0,2530500.0,Cali,Cliente_111
+408,2025-04-06,Disco SSD 500GB,Almacenamiento,4.0,252500.0,Cali,Cliente_141
+398,2025-11-27,Audífonos JBL,Audio,2.0,342400.0,Medellín,Cliente_180
+616,2025-08-22,Mouse Logitech,Accesorios,1.0,85000.0,Cali,Cliente_144
+400,2025-11-12,Disco SSD 1TB,Almacenamiento,3.0,394700.0,Barranquilla,Cliente_012
+139,2025-03-10,Parlante Bluetooth,Audio,1.0,249900.0,Bogotá,Cliente_006
+175,2025-12-15,Laptop Lenovo IdeaPad,Tecnología,6.0,2272900.0,Pereira,Cliente_011
+132,2025-02-23,Teclado Mecánico,Accesorios,3.0,203500.0,Cali,Cliente_133
+33,2025-06-01,Laptop Lenovo IdeaPad,Tecnología,3.0,2359600.0,Ibagué,
+556,2025-11-03,Tablet Samsung,Tecnología,1.0,1172800.0,Medellín,Cliente_167
+82,2025-11-21,Memoria RAM 16GB,Componentes,2.0,290300.0,Cali,Cliente_034
+101,2025-02-11,Tablet Samsung,Tecnología,7.0,1168200.0,Bogotá,Cliente_167
+211,2025-12-15,Memoria RAM 16GB,Componentes,4.0,300500.0,Pereira,Cliente_065
+583,2025-09-02,Disco SSD 1TB,Almacenamiento,3.0,368000.0,Bucaramanga,Cliente_170
+135,2025-11-02,Disco SSD 1TB,Almacenamiento,4.0,420000.0,Bogotá,Cliente_082
+406,2025-01-25,Disco SSD 1TB,Almacenamiento,6.0,369700.0,Barranquilla,Cliente_117
+4,2025-07-11,Mouse Logitech,Accesorios,4.0,91000.0,Cali,Cliente_021
+268,2025-08-04,Mouse Logitech,Accesorios,2.0,87700.0,Medellín,Cliente_160
+393,2025-04-28,Memoria RAM 16GB,Componentes,4.0,306600.0,Barranquilla,Cliente_104
+7,2025-11-16,Teclado Mecánico,Accesorios,4.0,210500.0,Villavicencio,Cliente_131
+643,2025-09-20,Mouse Logitech,Accesorios,1.0,80100.0,Cali,Cliente_018
+173,2025-08-24,Laptop Lenovo IdeaPad,Tecnología,5.0,2579600.0,Bogotá,Cliente_078
+633,2025-07-05,Disco SSD 500GB,Almacenamiento,3.0,219600.0,Ibagué,Cliente_157
+510,,Tablet Samsung,Tecnología,4.0,1297900.0,Villavicencio,Cliente_063
+167,2025-05-20,Monitor Samsung 24,Tecnología,1.0,809500.0,Ibagué,Cliente_001
+369,2025-03-12,Parlante Bluetooth,Audio,7.0,261000.0,Ibagué,Cliente_056
+495,2025-10-21,Memoria RAM 16GB,Componentes,6.0,275500.0,Cali,Cliente_059
+318,2025-05-27,Tablet Samsung,Tecnología,5.0,1273100.0,Ibagué,Cliente_100
+75,2025-05-09,Memoria RAM 16GB,Componentes,7.0,293900.0,Bogotá,Cliente_122
+598,2025-08-24,Teclado Mecánico,Accesorios,2.0,226200.0,Cali,Cliente_096
+254,2025-10-29,Mouse Logitech,Accesorios,3.0,79200.0,Cali,Cliente_029
+130,,Laptop Lenovo IdeaPad,Tecnología,1.0,2550700.0,Cali,Cliente_095
+375,2025-06-16,Webcam HD,Accesorios,3.0,184800.0,Bogotá,Cliente_089
+65,2025-01-13,Memoria RAM 16GB,Componentes,2.0,299100.0,Cali,Cliente_135
+494,2025-05-24,Tablet Samsung,Tecnología,2.0,1169500.0,Pereira,Cliente_179
+11,2025-03-22,Webcam HD,Accesorios,7.0,165900.0,Cali,Cliente_050
+16,2025-07-07,Audífonos JBL,Audio,2.0,343800.0,Cali,Cliente_041
+487,2025-05-11,,Audio,5.0,249900.0,Ibagué,Cliente_165
+49,2025-04-14,Monitor Samsung 24,Tecnología,3.0,834400.0,Cali,Cliente_112
+590,2025-04-02,Memoria RAM 16GB,Componentes,4.0,278000.0,Ibagué,Cliente_024
+79,2025-10-12,Teclado Mecánico,Accesorios,5.0,197200.0,Bucaramanga,Cliente_069
+477,2025-11-09,Mouse Logitech,Accesorios,3.0,84100.0,Cali,Cliente_070
+227,2025-06-14,Tablet Samsung,Tecnología,6.0,1163400.0,Villavicencio,Cliente_122
+145,2025-05-13,Disco SSD 1TB,Almacenamiento,,393000.0,Villavicencio,Cliente_012
+404,2025-10-08,Mouse Logitech,Accesorios,2.0,89400.0,Barranquilla,Cliente_054
+496,2025-11-15,Parlante Bluetooth,Audio,3.0,241400.0,Villavicencio,Cliente_032
+607,2025-02-04,Disco SSD 500GB,Almacenamiento,2.0,228700.0,Pereira,Cliente_030
+114,2025-09-09,Audífonos JBL,Audio,6.0,341700.0,Barranquilla,Cliente_164
+215,2025-06-14,Webcam HD,Accesorios,6.0,184200.0,Bucaramanga,Cliente_142
+261,2025-11-15,Disco SSD 500GB,Almacenamiento,6.0,253100.0,Bucaramanga,Cliente_088
+210,2025-06-11,Memoria RAM 16GB,Componentes,3.0,279200.0,Cali,Cliente_087
+313,2025-02-10,Disco SSD 1TB,Almacenamiento,1.0,362000.0,Bogotá,Cliente_008
+270,2025-11-19,Audífonos JBL,Audio,2.0,317800.0,Medellín,Cliente_029
+231,2025-02-15,Audífonos JBL,Audio,4.0,333900.0,Pereira,Cliente_130
+168,2025-10-20,Parlante Bluetooth,Audio,6.0,,Bucaramanga,Cliente_139
+528,2025-02-15,Cable HDMI,Accesorios,3.0,44200.0,Bucaramanga,Cliente_142
+302,2025-08-02,Disco SSD 1TB,Almacenamiento,1.0,368800.0,Bucaramanga,Cliente_117
+611,2025-07-20,Webcam HD,Accesorios,5.0,184000.0,Ibagué,Cliente_001
+490,2025-11-23,Monitor Samsung 24,Tecnología,7.0,748900.0,Bucaramanga,Cliente_033
+100,2025-02-22,Teclado Mecánico,Accesorios,4.0,204200.0,Ibagué,Cliente_144
+262,2025-06-02,Cable HDMI,Accesorios,6.0,45800.0,Ibagué,Cliente_052
+609,2025-01-30,Parlante Bluetooth,Audio,1.0,242900.0,Ibagué,Cliente_067
+23,2025-09-12,Teclado Mecánico,Accesorios,1.0,217500.0,Bucaramanga,Cliente_103
+619,2025-08-19,Memoria RAM 16GB,Componentes,3.0,263200.0,Barranquilla,Cliente_039
+388,2025-08-03,Teclado Mecánico,Accesorios,6.0,215700.0,Cali,
+600,2025-07-22,Laptop Lenovo IdeaPad,Tecnología,6.0,2552600.0,Pereira,Cliente_179
+474,2025-03-10,Parlante Bluetooth,Audio,3.0,257100.0,Barranquilla,Cliente_064
+288,2025-07-11,Cable HDMI,Accesorios,2.0,47700.0,Ibagué,Cliente_029
+336,2025-11-09,Webcam HD,Accesorios,3.0,187600.0,Pereira,Cliente_118
+260,2025-10-20,Tablet Samsung,Tecnología,4.0,1193700.0,Barranquilla,Cliente_171
+218,2025-01-11,Mouse Logitech,Accesorios,1.0,89300.0,Bogotá,Cliente_130
+196,2025-07-01,Audífonos JBL,Audio,2.0,337400.0,Ibagué,Cliente_057
+28,2025-03-03,Disco SSD 500GB,Almacenamiento,2.0,239700.0,Villavicencio,
+439,2025-09-28,Disco SSD 500GB,Almacenamiento,2.0,221000.0,Villavicencio,Cliente_168
+465,2025-03-17,Teclado Mecánico,Accesorios,6.0,216600.0,Bucaramanga,Cliente_058
+361,2025-10-31,Tablet Samsung,Tecnología,4.0,1179800.0,Barranquilla,Cliente_044
+440,2025-11-11,Mouse Logitech,Accesorios,7.0,79500.0, BUCARAMANGA ,Cliente_124
+516,2025-12-30,Tablet Samsung,Tecnología,3.0,1330300.0,Cali,Cliente_131
+617,2025-01-13,Disco SSD 1TB,Almacenamiento,4.0,367900.0,Pereira,Cliente_111
+209,2025-09-21,Teclado Mecánico,Accesorios,7.0,196700.0,Barranquilla,Cliente_055
+320,2025-07-30,Disco SSD 500GB,Almacenamiento,2.0,217000.0,Bucaramanga,Cliente_037
+410,2025-10-14,Mouse Logitech,Accesorios,4.0,83200.0,Medellín,Cliente_005
+385,2025-02-18,Tablet Samsung,Tecnología,7.0,1163900.0,Cali,Cliente_130
+87,2025-03-06,Cable HDMI,Accesorios,5.0,45900.0,Villavicencio,Cliente_168
+51,2025-06-10,Teclado Mecánico,Accesorios,5.0,200700.0,Cali,Cliente_033
+412,2025-03-24,Mouse Logitech,Accesorios,5.0,86600.0,Villavicencio,Cliente_099
+357,2025-11-12,Parlante Bluetooth,Audio,7.0,262600.0,Barranquilla,Cliente_161
+38,2025-09-04,Disco SSD 500GB,Almacenamiento,2.0,253300.0,Cali,Cliente_123
+58,2025-10-07,Teclado Mecánico,Accesorios,4.0,193700.0,Barranquilla,Cliente_046
+486,2025-05-22,Parlante Bluetooth,Audio,2.0,256600.0,Villavicencio,Cliente_165
+529,2025-02-04,Monitor Samsung 24,Tecnología,5.0,785800.0,Medellín,Cliente_030
+144,2025-04-02,Teclado Mecánico,Accesorios,5.0,198900.0,Bogotá,Cliente_061
+517,2025-10-04,Disco SSD 500GB,Almacenamiento,4.0,236000.0,Cali,Cliente_161
+37,2025-05-06,Memoria RAM 16GB,Componentes,5.0,277900.0,Bogotá,Cliente_053
+503,2025-09-25,Audífonos JBL,Audio,3.0,304400.0,Bogotá,Cliente_008
+203,2025-02-18,Cable HDMI,Accesorios,6.0,43000.0,Ibagué,Cliente_081
+387,2025-10-27,Disco SSD 1TB,Almacenamiento,2.0,401200.0,Barranquilla,Cliente_058
+525,2025-10-29,Teclado Mecánico,Accesorios,1.0,203400.0,Cali,Cliente_142
+31,2025-04-26,Tablet Samsung,Tecnología,3.0,1235400.0,Barranquilla,Cliente_003
+106,2025-12-31,Disco SSD 1TB,Almacenamiento,3.0,395100.0,Villavicencio,Cliente_086
+223,2025-02-09,Teclado Mecánico,Accesorios,1.0,202200.0,Bogotá,Cliente_025
+174,2025-03-17,Audífonos JBL,Audio,3.0,342400.0,Medellín,Cliente_035
+466,2025-07-11,Disco SSD 1TB,Almacenamiento,5.0,408000.0,Medellín,Cliente_176
+645,2025-09-09,Disco SSD 1TB,Almacenamiento,1.0,414300.0,Medellín,Cliente_013
+397,2025-08-25,Monitor Samsung 24,Tecnología,1.0,746000.0,Bogotá,Cliente_105
+189,2025-03-10,Monitor Samsung 24,Tecnología,2.0,749000.0,Cali,Cliente_011
+50,2025-12-04,Tablet Samsung,Tecnología,3.0,1344700.0,Bogotá,Cliente_054
+379,2025-03-18,Cable HDMI,Accesorios,2.0,43200.0,Barranquilla,Cliente_153
+8,2025-11-25,Audífonos JBL,Audio,3.0,329200.0,Ibagué,Cliente_018
+319,2025-07-02,Webcam HD,Accesorios,5.0,183100.0,Pereira,Cliente_051
+401,2025-10-18,Laptop Lenovo IdeaPad,Tecnología,2.0,2465600.0,Bucaramanga,Cliente_158
+108,2025-10-02,Monitor Samsung 24,Tecnología,6.0,806000.0,Barranquilla,Cliente_108
+428,2025-06-22,Laptop Lenovo IdeaPad,Tecnología,4.0,2430600.0,Medellín,Cliente_069
+378,2025-05-23,Laptop Lenovo IdeaPad,Tecnología,6.0,2263300.0,Medellín,Cliente_160
+411,2025-05-10,Teclado Mecánico,Accesorios,2.0,208600.0,Bucaramanga,Cliente_011
+390,2025-11-29,Disco SSD 1TB,Almacenamiento,4.0,364300.0,Barranquilla,Cliente_031
+574,2025-03-16,Tablet Samsung,Tecnología,7.0,1169800.0,Pereira,Cliente_160
+181,2025-05-14,Teclado Mecánico,Accesorios,7.0,197100.0,Medellín,Cliente_135
+308,2025-08-30,Disco SSD 500GB,Almacenamiento,4.0,229200.0,Cali,Cliente_097
+41,2025-12-15,Tablet Samsung,Tecnología,4.0,1251600.0,Medellín,Cliente_148
+585,2025-10-01,Teclado Mecánico,Accesorios,7.0,208100.0,Cali,Cliente_113
+205,2025-08-12,Webcam HD,Accesorios,1.0,169400.0,Barranquilla,Cliente_179
+352,2025-06-25,Tablet Samsung,Tecnología,1.0,1231400.0,Barranquilla,Cliente_073
+492,2025-01-17,Tablet Samsung,Tecnología,7.0,1291600.0,Bogotá,Cliente_098
+303,2025-07-28,Mouse Logitech,Accesorios,3.0,91600.0,Pereira,Cliente_021
+365,2025-10-02,Monitor Samsung 24,Tecnología,5.0,777400.0,Bogotá,Cliente_078
+153,2025-01-15,Parlante Bluetooth,Audio,6.0,,Pereira,Cliente_119
+456,2025-05-01,Disco SSD 500GB,Almacenamiento,1.0,216600.0,Bogotá,Cliente_121
+112,2025-07-10,Teclado Mecánico,Accesorios,5.0,201200.0,Cali,Cliente_113
+156,2025-04-19,Monitor Samsung 24,Tecnología,2.0,816100.0,Bogotá,Cliente_111
+192,2025-12-22,Webcam HD,Accesorios,4.0,177600.0,Pereira,Cliente_068
+526,2025-12-21,Monitor Samsung 24,Tecnología,4.0,746600.0,Cali,Cliente_077
+220,2025-02-22,Disco SSD 1TB,Almacenamiento,6.0,381400.0,Cali,Cliente_099
+587,2025-11-01,Monitor Samsung 24,Tecnología,5.0,736800.0,Barranquilla,
+289,2025-01-07,Disco SSD 500GB,Almacenamiento,4.0,240500,Barranquilla,
+434,2025-08-08,Disco SSD 1TB,Almacenamiento,7.0,363900.0,Villavicencio,Cliente_136
+200,2025-12-13,Mouse Logitech,Accesorios,7.0,82900.0,Villavicencio,Cliente_128
+482,2025-07-03,Disco SSD 500GB,Almacenamiento,1.0,234500.0,Medellín,Cliente_084
+582,2025-08-22,Cable HDMI,Accesorios,6.0,41600.0,Medellín,Cliente_050
+569,,Laptop Lenovo IdeaPad,Tecnología,1.0,2419400.0,Villavicencio,Cliente_055
+555,2025-12-10,Disco SSD 1TB,Almacenamiento,6.0,376100.0,Barranquilla,Cliente_049
+436,2025-08-05,Monitor Samsung 24,Tecnología,6.0,726200.0,,Cliente_119
+164,2025-04-04,Monitor Samsung 24,Tecnología,7.0,819600.0,Pereira,Cliente_179
+138,2025-05-18,Laptop Lenovo IdeaPad,Tecnología,5.0,2566200.0,Pereira,Cliente_145
+127,2025-01-23,Audífonos JBL,Audio,6.0,341200.0,Barranquilla,Cliente_053
+282,2025-01-13,Disco SSD 500GB,Almacenamiento,7.0,223500.0,Bucaramanga,Cliente_155
+383,2025-08-20,Memoria RAM 16GB,Componentes,5.0,265800.0,Barranquilla,Cliente_097
+363,2025-01-21,Mouse Logitech,Accesorios,4.0,91200.0,Ibagué,Cliente_107
+521,2025-09-29,Cable HDMI,Accesorios,3.0,41600.0,Bogotá,Cliente_066
+104,2025-06-17,Disco SSD 1TB,Almacenamiento,7.0,385400.0,Bogotá,Cliente_137
+143,2025-03-02,Teclado Mecánico,Accesorios,3.0,215600.0,Bogotá,Cliente_051
+54,2025-09-21,Disco SSD 1TB,Almacenamiento,6.0,383300.0,Medellín,Cliente_027
+500,2025-09-05,Parlante Bluetooth,Audio,1.0,240300.0,Bucaramanga,Cliente_131
+337,2025-06-24,Monitor Samsung 24,Tecnología,4.0,722200.0,Barranquilla,Cliente_165
+628,2025-10-21,Parlante Bluetooth,Audio,2.0,250700.0,Villavicencio,Cliente_087
+631,2025-04-10,Cable HDMI,Accesorios,2.0,43700.0,Bogotá,Cliente_143
+207,2025-03-19,Webcam HD,Accesorios,3.0,162800.0,Medellín,Cliente_175
+606,2025-11-16,Teclado Mecánico,Accesorios,6.0,210900.0,Bucaramanga,Cliente_021
+72,2025-11-07,Monitor Samsung 24,Tecnología,6.0,785100.0,Pereira,Cliente_052
+248,2025-04-13,Memoria RAM 16GB,Componentes,5.0,283800.0,Villavicencio,Cliente_014
+234,2025-08-20,Monitor Samsung 24,Tecnología,1.0,807600.0,Medellín,Cliente_054
+416,2025-03-04,Disco SSD 500GB,Almacenamiento,6.0,232200.0,Barranquilla,Cliente_116
+314,,Webcam HD,Accesorios,2.0,178500.0,Bucaramanga,Cliente_111
+599,2025-08-16,Disco SSD 1TB,Almacenamiento,7.0,377700.0,Bucaramanga,Cliente_075
+225,2025-04-08,Parlante Bluetooth,Audio,2.0,276700.0,Ibagué,Cliente_037
+306,2025-02-10,Cable HDMI,Accesorios,6.0,46800,Villavicencio,Cliente_076
+3,2025-05-11,Audífonos JBL,Audio,4.0,301700.0,Bucaramanga,Cliente_053
+327,2025-05-05,Teclado Mecánico,Accesorios,3.0,202700.0,Cali,Cliente_131
+5,2025-09-10,Laptop Lenovo IdeaPad,Tecnología,4.0,2493800.0,Cali,Cliente_089
+621,2025-08-02,Audífonos JBL,Audio,3.0,327600.0,Ibagué,Cliente_081
+589,2025-01-21,Teclado Mecánico,Accesorios,2.0,195100.0,Cali,Cliente_139
+26,2025-08-19,Monitor Samsung 24,Tecnología,6.0,735000.0,Barranquilla,Cliente_143
+627,2025-08-29,Disco SSD 500GB,Almacenamiento,1.0,228100.0,Bogotá,Cliente_093
+47,2025-04-09,Cable HDMI,Accesorios,,43800.0,Medellín,Cliente_048
+527,2025-09-08,Mouse Logitech,Accesorios,3.0,90500.0,Medellín,Cliente_151
+295,2025-05-27,Audífonos JBL,Audio,3.0,343800.0,Villavicencio,Cliente_131
+438,2025-12-17,Disco SSD 1TB,Almacenamiento,5.0,395100.0,Pereira,
+430,,Cable HDMI,Accesorios,1.0,41900.0,Villavicencio,Cliente_133
+116,2025-09-16,Laptop Lenovo IdeaPad,Tecnología,5.0,2527200.0,Pereira,Cliente_012
+274,,Disco SSD 500GB,Almacenamiento,5.0,249800.0,Bogotá,Cliente_040
+341,2025-07-25,Audífonos JBL,Audio,1.0,320400.0,Cali,Cliente_020
+541,2025-07-20,Teclado Mecánico,Accesorios,4.0,197100.0,Barranquilla,Cliente_137
+561,2025-08-03,Memoria RAM 16GB,Componentes,6.0,273900.0,Villavicencio,Cliente_175
+172,2025-02-07,Laptop Lenovo IdeaPad,Tecnología,1.0,2487500.0,Ibagué,Cliente_163
+18,2025-03-22,Webcam HD,Accesorios,7.0,183800.0,Pereira,Cliente_163
+133,2025-09-12,Cable HDMI,Accesorios,1.0,45600.0,Ibagué,Cliente_151
+349,2025-11-24,Webcam HD,Accesorios,1.0,161900.0,Villavicencio,Cliente_046
+507,2025-02-09,Teclado Mecánico,Accesorios,3.0,202500.0,Bucaramanga,Cliente_161
+195,2025-09-14,Tablet Samsung,Tecnología,6.0,1332100.0,Bucaramanga,Cliente_101
+437,2025-05-20,Mouse Logitech,Accesorios,2.0,89100.0,Medellín,Cliente_002
+103,2025-03-15,Mouse Logitech,Accesorios,7.0,80100.0,Bogotá,Cliente_145
+290,2025-02-27,Laptop Lenovo IdeaPad,Tecnología,6.0,2399800.0,Ibagué,Cliente_026
+276,2025-09-19,Cable HDMI,Accesorios,5.0,43300.0,Pereira,Cliente_147
+163,2025-01-06,Audífonos JBL,Audio,4.0,345500.0,Bogotá,Cliente_075
+345,,Mouse Logitech,Accesorios,2.0,88200.0,Bogotá,Cliente_085
+332,2025-01-28,Laptop Lenovo IdeaPad,Tecnología,3.0,2376400.0,Bogotá,Cliente_163
+579,2025-06-25,Laptop Lenovo IdeaPad,Tecnología,6.0,2586100.0,Cali,Cliente_065
+462,2025-01-03,Memoria RAM 16GB,Componentes,4.0,285500,Pereira,Cliente_080
+376,2025-08-30,Mouse Logitech,Accesorios,3.0,86700.0,Barranquilla,Cliente_175
+142,2025-07-03,Webcam HD,Accesorios,4.0,166100.0,Villavicencio,Cliente_096
+384,2025-12-19,Monitor Samsung 24,Tecnología,3.0,767700.0,Medellín,Cliente_070
+191,2025-04-14,Cable HDMI,Accesorios,4.0,48000.0,Bucaramanga,Cliente_111
+179,2025-01-23,Teclado Mecánico,Accesorios,5.0,203300.0,Ibagué,Cliente_143
+85,2025-06-09,Memoria RAM 16GB,Componentes,2.0,263400.0,Medellín,Cliente_084
+613,2025-09-17,Mouse Logitech,Accesorios,6.0,82000.0, BUCARAMANGA ,Cliente_102
+45,2025-12-12,Teclado Mecánico,Accesorios,7.0,215400.0,Pereira,Cliente_060
+307,2025-03-21,Tablet Samsung,Tecnología,6.0,1178500.0,Bucaramanga,Cliente_086
+137,2025-09-04,Laptop Lenovo IdeaPad,Tecnología,7.0,2409400.0,Bogotá,Cliente_051
+28,2025-03-03,Disco SSD 500GB,Almacenamiento,2.0,239700.0,Villavicencio,
+505,2025-08-26,Webcam HD,Accesorios,7.0,179000.0,Pereira,Cliente_042
+136,2025-11-04,Cable HDMI,Accesorios,3.0,47900.0,Villavicencio,Cliente_166
+601,2025-04-02,Audífonos JBL,Audio,6.0,317700.0,Medellín,Cliente_175
+246,2025-03-27,Memoria RAM 16GB,Componentes,1.0,270400.0,Bogotá,Cliente_135
+646,2025-05-18,Tablet Samsung,Tecnología,1.0,1172300.0,Barranquilla,Cliente_044
+27,2025-06-09,Cable HDMI,Accesorios,5.0,43000.0,Ibagué,Cliente_086
+184,2025-09-11,Audífonos JBL,Audio,3.0,332500.0,Cali,Cliente_086
+217,2025-02-05,Audífonos JBL,Audio,3.0,300700.0,Barranquilla,Cliente_082
+498,2025-08-01,Disco SSD 1TB,Almacenamiento,7.0,371600.0,Ibagué,Cliente_116
+143,2025-03-02,Teclado Mecánico,Accesorios,3.0,215600.0,Bogotá,Cliente_051
+549,2025-05-16,Disco SSD 500GB,Almacenamiento,6.0,217900.0,Medellín,Cliente_124
+308,2025-08-30,Disco SSD 500GB,Almacenamiento,4.0,229200.0,Cali,Cliente_097
+417,2025-01-14,Teclado Mecánico,Accesorios,7.0,210900.0,Ibagué,Cliente_086
+317,2025-01-12,Disco SSD 500GB,Almacenamiento,2.0,232700.0,Ibagué,Cliente_012
+267,2025-03-02,Teclado Mecánico,Accesorios,4.0,226600.0,medellin ,Cliente_163
+44,2025-05-31,Webcam HD,Accesorios,1.0,179900.0,Ibagué,Cliente_042
+648,2025-05-18,Mouse Logitech,Accesorios,6.0,87800.0,Medellín,Cliente_153
+339,2025-11-30,Disco SSD 1TB,Almacenamiento,4.0,392500.0,Bogotá,Cliente_037
+259,2025-03-14,Tablet Samsung,Tecnología,1.0,1332100.0,Ibagué,Cliente_049
+125,2025-04-08,Cable HDMI,Accesorios,1.0,47400.0,Villavicencio,Cliente_099
+603,2025-12-03,Webcam HD,Accesorios,4.0,161100.0,Villavicencio,Cliente_096
+229,2025-06-17,Tablet Samsung,Tecnología,7.0,1324800.0,Bogotá,Cliente_012
+263,2025-12-15,Monitor Samsung 24,Tecnología,3.0,767700.0,Ibagué,Cliente_054
+594,2025-05-27,Audífonos JBL,Audio,1.0,330800.0,Ibagué,Cliente_064
+511,2025-09-26,Memoria RAM 16GB,Componentes,5.0,292700.0,Bogotá,Cliente_004
+6,2025-06-19,Laptop Lenovo IdeaPad,Tecnología,3.0,2493800.0,Pereira,Cliente_015
+457,2025-08-11,Monitor Samsung 24,Tecnología,3.0,812000.0,Ibagué,Cliente_070
+641,2025-05-17,Monitor Samsung 24,Tecnología,7.0,807400.0,Villavicencio,Cliente_166
+630,2025-04-17,Disco SSD 500GB,Almacenamiento,3.0,247300.0,Medellín,Cliente_137
+534,2025-04-30,Tablet Samsung,Tecnología,4.0,1277000.0,Bucaramanga,Cliente_061
+647,2025-06-14,Audífonos JBL,Audio,2.0,295200.0,Bucaramanga,Cliente_024
+637,2025-10-20,Monitor Samsung 24,Tecnología,3.0,796800.0,Bogotá,Cliente_145
+118,2025-05-16,Parlante Bluetooth,Audio,4.0,266100.0,Bogotá,Cliente_060
+605,2025-12-15,Memoria RAM 16GB,Componentes,2.0,283900.0,Bucaramanga,Cliente_171
+126,2025-01-06,Laptop Lenovo IdeaPad,Tecnología,5.0,2276100.0,Cali,Cliente_095
+394,2025-10-13,Webcam HD,Accesorios,4.0,167800.0,Barranquilla,Cliente_084
+597,2025-03-11,,Tecnología,6.0,1156900.0,Villavicencio,Cliente_115
+575,2025-04-10,Parlante Bluetooth,Audio,3.0,264200.0,Cali,Cliente_161
+519,2025-10-06,Mouse Logitech,Accesorios,2.0,86500.0,Pereira,Cliente_128
+155,2025-05-25,Parlante Bluetooth,Audio,6.0,244200,Barranquilla,Cliente_025
+296,2025-01-15,Cable HDMI,Accesorios,1.0,43700.0,Bogotá,Cliente_163
+76,2025-05-06,Laptop Lenovo IdeaPad,Tecnología,7.0,2352100.0,Bucaramanga,Cliente_048
+174,2025-03-17,Audífonos JBL,Audio,3.0,342400.0,Medellín,Cliente_035
+551,2025-08-25,Webcam HD,Accesorios,6.0,178100,Cali,Cliente_056
+52,2025-05-15,Audífonos JBL,Audio,4.0,313200.0,Medellín,Cliente_145
+560,2025-01-08,Parlante Bluetooth,Audio,7.0,278900.0,Villavicencio,Cliente_091
+236,2025-08-27,Webcam HD,Accesorios,1.0,168600.0,Cali,Cliente_081
+344,2025-05-06,Disco SSD 1TB,Almacenamiento,4.0,366600.0,Barranquilla,Cliente_052
+472,2025-04-17,Parlante Bluetooth,Audio,2.0,246100.0,Villavicencio,Cliente_094
+343,2025-06-27,Tablet Samsung,Tecnología,7.0,1240900.0,Ibagué,Cliente_172
+351,2025-08-08,Audífonos JBL,Audio,5.0,324000.0,Bogotá,Cliente_063
+94,2025-04-06,Teclado Mecánico,Accesorios,4.0,205700.0,Pereira,Cliente_151
+632,2025-07-17,Teclado Mecánico,Accesorios,5.0,207400.0,Pereira,Cliente_056
+310,2025-12-25,Disco SSD 1TB,Almacenamiento,7.0,367100.0,Bogotá,Cliente_174
+522,2025-07-20,Teclado Mecánico,Accesorios,4.0,216100.0,Cali,Cliente_124
+149,2025-06-29,Laptop Lenovo IdeaPad,Tecnología,1.0,2488100.0,Ibagué,Cliente_047
+608,2025-01-19,Tablet Samsung,Tecnología,6.0,1151800.0,Bogotá,Cliente_008
+250,2025-07-02,Audífonos JBL,Audio,3.0,311800.0,Ibagué,Cliente_108
+342,2025-10-26,Audífonos JBL,Audio,2.0,343800.0,Bucaramanga,Cliente_050
+201,2025-06-28,Cable HDMI,Accesorios,3.0,44700.0,Bucaramanga,Cliente_152
+479,2025-12-30,Monitor Samsung 24,Tecnología,1.0,837000.0,Bogotá,Cliente_158
+92,2025-08-05,Cable HDMI,Accesorios,5.0,41700.0,Barranquilla,Cliente_164
+221,2025-10-07,Monitor Samsung 24,Tecnología,2.0,812900.0,Villavicencio,Cliente_158
+29,2025-12-06,Disco SSD 500GB,Almacenamiento,4.0,224400.0,Bucaramanga,Cliente_075
+576,2025-06-05,Webcam HD,Accesorios,7.0,175300.0,Barranquilla,Cliente_007
+73,2025-05-27,Mouse Logitech,Accesorios,4.0,87900.0,Villavicencio,Cliente_120
+399,2025-11-07,Memoria RAM 16GB,Componentes,2.0,289600.0,Bucaramanga,Cliente_163
+470,2025-03-19,Cable HDMI,Accesorios,7.0,44400.0,Cali,Cliente_075
+281,2025-09-15,Memoria RAM 16GB,Componentes,7.0,262300.0,Bucaramanga,Cliente_077
+593,2025-12-07,Parlante Bluetooth,Audio,3.0,247600.0,Pereira,Cliente_028
+421,2025-07-07,Audífonos JBL,Audio,5.0,296600.0,Medellín,Cliente_149
+301,2025-12-06,Memoria RAM 16GB,Componentes,1.0,289900.0,Cali,Cliente_009
+183,2025-06-06,Laptop Lenovo IdeaPad,Tecnología,4.0,2544700.0,Bucaramanga,Cliente_097
+176,2025-10-13,Tablet Samsung,Tecnología,5.0,1190300.0,Medellín,Cliente_165
+374,2025-10-20,Webcam HD,Accesorios,1.0,167600.0,Cali,Cliente_050
+271,2025-11-28,Tablet Samsung,Tecnología,3.0,1341100.0,Bogotá,Cliente_009
+330,2025-02-10,Memoria RAM 16GB,Componentes,5.0,301200.0,Bucaramanga,Cliente_060
+602,2025-02-17,Monitor Samsung 24,Tecnología,7.0,836900.0,Ibagué,Cliente_073
+419,2025-05-18,Disco SSD 1TB,Almacenamiento,6.0,,Ibagué,Cliente_058
+468,2025-09-08,Monitor Samsung 24,Tecnología,1.0,792300.0,Ibagué,Cliente_057
+471,2025-11-21,Memoria RAM 16GB,Componentes,1.0,305500.0,Villavicencio,Cliente_061
+629,2025-11-21,Webcam HD,Accesorios,2.0,174100.0,Cali,Cliente_121
+81,2025-09-11,Audífonos JBL,Audio,7.0,312100.0,Bucaramanga,Cliente_101
+370,2025-02-05,Laptop Lenovo IdeaPad,Tecnología,2.0,2326600.0,Cali,Cliente_118
+323,2025-01-24,Audífonos JBL,Audio,7.0,315700.0,Cali,Cliente_037
+64,,Tablet Samsung,Tecnología,3.0,1291800.0,Barranquilla,Cliente_170
+62,2025-12-08,Webcam HD,Accesorios,2.0,178200.0,Ibagué,Cliente_127
+279,2025-08-23,Disco SSD 1TB,Almacenamiento,4.0,368700.0,Barranquilla,Cliente_058
+640,2025-07-29,Disco SSD 500GB,Almacenamiento,,245100.0,Barranquilla,Cliente_141
+444,2025-12-26,Audífonos JBL,Audio,6.0,337500.0,Bucaramanga,Cliente_135
+280,2025-06-09,Tablet Samsung,Tecnología,3.0,1325800.0,,Cliente_158
+545,2025-06-06,Teclado Mecánico,Accesorios,6.0,213100.0,Medellín,Cliente_132
+469,2025-07-17,Disco SSD 500GB,Almacenamiento,6.0,240400.0,Cali,Cliente_148
+187,2025-09-18,Webcam HD,Accesorios,7.0,183300.0,Barranquilla,Cliente_047
+9,2025-08-30,Monitor Samsung 24,Tecnología,1.0,838100.0,Bogotá,Cliente_009
+86,2025-02-02,Webcam HD,Accesorios,4.0,171900.0,Villavicencio,Cliente_179
+464,2025-03-01,Mouse Logitech,Accesorios,3.0,81900.0,Medellín,Cliente_049
+372,2025-04-28,Cable HDMI,Accesorios,5.0,45700,Barranquilla,Cliente_137
+441,2025-08-01,Parlante Bluetooth,Audio,1.0,246000.0,Cali,Cliente_032
+550,2025-04-19,Parlante Bluetooth,Audio,1.0,257900.0,Villavicencio,Cliente_099
+97,2025-01-19,Tablet Samsung,Tecnología,6.0,1209500.0,Villavicencio,Cliente_100
+595,2025-11-06,Cable HDMI,Accesorios,5.0,45700.0,Barranquilla,Cliente_047
+157,2025-04-21,Monitor Samsung 24,Tecnología,7.0,809600.0,Pereira,Cliente_168
+467,2025-07-02,Monitor Samsung 24,Tecnología,6.0,758600.0,Villavicencio,Cliente_146
+475,2025-03-15,Audífonos JBL,Audio,4.0,335500.0,Pereira,Cliente_005
+122,2025-10-13,Tablet Samsung,Tecnología,2.0,1166500.0,Bogotá,Cliente_109
+596,2025-01-05,Disco SSD 500GB,Almacenamiento,6.0,221100.0,Villavicencio,Cliente_020
+212,2025-09-12,Tablet Samsung,Tecnología,7.0,1200800.0,Barranquilla,Cliente_072
+294,2025-04-02,Teclado Mecánico,Accesorios,1.0,225600.0,Barranquilla,Cliente_021
+649,2025-09-25,Teclado Mecánico,Accesorios,7.0,204300.0,Bucaramanga,Cliente_116
+615,2025-05-03,Mouse Logitech,Accesorios,,91200.0,Bucaramanga,Cliente_016
+502,2025-06-27,Monitor Samsung 24,Tecnología,7.0,820200.0,Medellín,Cliente_147
+165,2025-01-26,Tablet Samsung,Tecnología,2.0,1261400.0,Medellín,Cliente_173
+460,2025-12-25,Disco SSD 1TB,Almacenamiento,5.0,358900.0,Barranquilla,Cliente_038
+442,2025-05-02,Teclado Mecánico,Accesorios,6.0,193600.0,Pereira,Cliente_119
+557,2025-07-11,Memoria RAM 16GB,Componentes,1.0,263600.0,Medellín,Cliente_147
+235,2025-09-03,Mouse Logitech,Accesorios,7.0,87200.0,Bucaramanga,Cliente_069
+480,2025-08-08,Disco SSD 1TB,Almacenamiento,4.0,376000.0,Bucaramanga,Cliente_120
+180,2025-11-05,Laptop Lenovo IdeaPad,Tecnología,1.0,2393300.0,Pereira,Cliente_104
+573,2025-07-14,Disco SSD 500GB,Almacenamiento,4.0,246200.0,Cali,Cliente_172
+309,2025-03-18,Mouse Logitech,Accesorios,1.0,79400.0,Cali,Cliente_154
+70,2025-04-11,Disco SSD 1TB,Almacenamiento,7.0,381300.0,Villavicencio,Cliente_008
+272,2025-08-14,Webcam HD,Accesorios,1.0,176400.0,Pereira,Cliente_124
+625,2025-01-12,Cable HDMI,Accesorios,7.0,46600.0,Ibagué,Cliente_159
+24,2025-12-12,Cable HDMI,Accesorios,1.0,46500.0,Bogotá,Cliente_124
+564,2025-08-31,Monitor Samsung 24,Tecnología,1.0,726500.0,Ibagué,Cliente_041
+293,2025-03-25,Monitor Samsung 24,Tecnología,2.0,814000.0,Bucaramanga,Cliente_027
+367,2025-05-26,Teclado Mecánico,Accesorios,2.0,213700.0,Bogotá,Cliente_177
+622,2025-03-15,Memoria RAM 16GB,Componentes,7.0,301700.0,Bogotá,Cliente_054
+59,2025-04-26,Audífonos JBL,Audio,7.0,343700.0,Ibagué,Cliente_160
+578,2025-05-06,Teclado Mecánico,Accesorios,5.0,210600.0,Medellín,Cliente_049
+80,2025-07-23,Laptop Lenovo IdeaPad,Tecnología,6.0,2589300.0,Pereira,Cliente_176
+266,2025-08-03,Audífonos JBL,Audio,5.0,326600.0,Villavicencio,Cliente_009
+322,2025-11-28,Disco SSD 1TB,Almacenamiento,7.0,371500.0,Villavicencio,Cliente_094
+488,2025-12-11,Webcam HD,Accesorios,1.0,174000.0,Barranquilla,Cliente_128
+520,2025-05-19,Disco SSD 1TB,Almacenamiento,1.0,411300.0,Bucaramanga,Cliente_015
+93,2025-07-11,Parlante Bluetooth,Audio,5.0,270400.0,medellin ,Cliente_177
+612,2025-04-14,Monitor Samsung 24,Tecnología,3.0,794200.0,Ibagué,Cliente_009
+618,2025-08-03,Disco SSD 500GB,Almacenamiento,2.0,226800.0,Bucaramanga,Cliente_120
+438,2025-12-17,Disco SSD 1TB,Almacenamiento,5.0,395100.0,Pereira,
+148,2025-12-03,Cable HDMI,Accesorios,7.0,44100.0,Bogotá,Cliente_036
+252,,Mouse Logitech,Accesorios,1.0,90200.0,Bucaramanga,Cliente_055
+213,2025-03-08,Disco SSD 1TB,Almacenamiento,1.0,408700.0,Medellín,Cliente_097
+539,,Laptop Lenovo IdeaPad,Tecnología,6.0,2422200.0,Pereira,Cliente_050
+512,2025-02-28,Disco SSD 500GB,Almacenamiento,6.0,253000.0,Ibagué,Cliente_128
+277,2025-02-28,Webcam HD,Accesorios,4.0,184800.0,Pereira,Cliente_169
+368,2025-09-20,Monitor Samsung 24,Tecnología,2.0,732800.0,Ibagué,Cliente_108
+373,2025-05-01,Parlante Bluetooth,Audio,1.0,266100.0,barranquilla,Cliente_170
+402,2025-01-14,Disco SSD 1TB,Almacenamiento,3.0,408100.0,Villavicencio,Cliente_143
+13,2025-08-06,Disco SSD 1TB,Almacenamiento,5.0,419300.0,Cali,Cliente_162
+304,2025-04-05,Mouse Logitech,Accesorios,6.0,83500.0,Bucaramanga,
+508,2025-01-08,Disco SSD 500GB,Almacenamiento,1.0,217500.0,Barranquilla,Cliente_160
+543,2025-11-28,Webcam HD,Accesorios,5.0,180400.0,Bucaramanga,Cliente_076
+455,2025-03-31,Monitor Samsung 24,Tecnología,4.0,718300.0,Bogotá,Cliente_054
+366,2025-01-27,,Tecnología,5.0,753200.0,Barranquilla,Cliente_156
+325,2025-04-15,Mouse Logitech,Accesorios,1.0,85200.0,Cali,Cliente_117
+261,2025-11-15,Disco SSD 500GB,Almacenamiento,6.0,253100.0,Bucaramanga,Cliente_088
+554,2025-11-14,Audífonos JBL,Audio,5.0,323700.0,Bogotá,Cliente_107
+55,2025-10-11,Mouse Logitech,Accesorios,5.0,85000.0,Ibagué,Cliente_061
+581,2025-02-14,Webcam HD,Accesorios,3.0,175900.0,Cali,Cliente_154
+151,2025-01-14,Webcam HD,Accesorios,2.0,181900.0,Medellín,Cliente_056
+407,2025-01-25,Mouse Logitech,Accesorios,5.0,78600.0,Ibagué,Cliente_068
+584,2025-06-19,Audífonos JBL,Audio,2.0,300300.0,Cali,Cliente_101
+426,2025-08-20,Laptop Lenovo IdeaPad,Tecnología,2.0,2618700.0,Barranquilla,Cliente_028
+107,2025-08-05,Monitor Samsung 24,Tecnología,1.0,835800.0,Barranquilla,Cliente_132
+232,2025-11-03,Disco SSD 500GB,Almacenamiento,6.0,244000.0,Barranquilla,Cliente_036
+371,2025-06-22,Memoria RAM 16GB,Componentes,6.0,287300.0,Bogotá,Cliente_047
+238,2025-03-02,Tablet Samsung,Tecnología,1.0,1232600.0,Medellín,Cliente_104
+483,2025-01-21,,Accesorios,2.0,85800.0,Cali,Cliente_178
+25,2025-08-29,Teclado Mecánico,Accesorios,7.0,223300.0,Cali,Cliente_096
+300,2025-02-15,Disco SSD 500GB,Almacenamiento,5.0,250500.0,Ibagué,Cliente_153
+449,2025-01-19,Webcam HD,Accesorios,3.0,169300.0,Ibagué,Cliente_157
+327,2025-05-05,Teclado Mecánico,Accesorios,3.0,202700.0,Cali,Cliente_131
+452,2025-04-14,Audífonos JBL,Audio,3.0,345200.0,Medellín,Cliente_064
+636,2025-10-08,Webcam HD,Accesorios,4.0,164600.0,Bucaramanga,Cliente_021
+83,2025-05-27,Monitor Samsung 24,Tecnología,7.0,719500.0,Bogotá,Cliente_096
+552,2025-02-18,Laptop Lenovo IdeaPad,Tecnología,5.0,2464500.0,Bucaramanga,
+358,2025-04-12,Laptop Lenovo IdeaPad,Tecnología,1.0,2428200.0,Bogotá,Cliente_011
+563,2025-08-27,Monitor Samsung 24,Tecnología,2.0,729100.0,Cali,
+381,2025-08-29,Disco SSD 1TB,Almacenamiento,5.0,403600.0,Medellín,Cliente_024
+501,2025-08-15,Webcam HD,Accesorios,4.0,176100.0,Bucaramanga,Cliente_167
+102,2025-08-09,Parlante Bluetooth,Audio,5.0,269900.0,Medellín,Cliente_075
+380,2025-05-26,Mouse Logitech,Accesorios,3.0,86300.0,Medellín,Cliente_042
+77,2025-09-29,Tablet Samsung,Tecnología,5.0,1206000.0,Barranquilla,Cliente_069
+389,2025-10-13,Disco SSD 1TB,Almacenamiento,1.0,420900.0,Cali,Cliente_008
+292,2025-10-12,Tablet Samsung,Tecnología,7.0,1255400.0,Barranquilla,Cliente_075
+283,2025-08-11,Laptop Lenovo IdeaPad,Tecnología,1.0,2501700.0, bogota ,Cliente_088
+542,2025-08-04,Monitor Samsung 24,Tecnología,3.0,821100.0,Pereira,Cliente_065
+513,2025-12-19,Cable HDMI,Accesorios,5.0,45400.0,Cali,Cliente_025
+113,2025-05-14,Tablet Samsung,Tecnología,1.0,1194700.0,Bogotá,Cliente_044
+515,2025-07-30,Monitor Samsung 24,Tecnología,6.0,785100.0,Cali,Cliente_172
+604,2025-11-19,Webcam HD,Accesorios,3.0,169700.0,Medellín,Cliente_069
+247,2025-06-25,Audífonos JBL,Audio,7.0,309600.0,Pereira,Cliente_059
+146,2025-03-19,Parlante Bluetooth,Audio,6.0,254400.0,Bogotá,Cliente_045
+284,2025-03-15,Teclado Mecánico,Accesorios,6.0,202700.0,Villavicencio,Cliente_063
+435,2025-02-18,Webcam HD,Accesorios,1.0,188300.0,Cali,Cliente_126
+620,2025-09-26,Laptop Lenovo IdeaPad,Tecnología,1.0,2505100.0,Barranquilla,Cliente_147
+111,2025-12-27,Monitor Samsung 24,Tecnología,4.0,813300.0,Ibagué,Cliente_001
+635,2025-01-13,Memoria RAM 16GB,Componentes,5.0,294700.0,Barranquilla,Cliente_161
+91,2025-11-10,Teclado Mecánico,Accesorios,1.0,209900.0,Barranquilla,Cliente_114
+206,2025-06-07,Cable HDMI,Accesorios,3.0,43900.0,Barranquilla,Cliente_049
+171,2025-11-15,Webcam HD,Accesorios,2.0,163500.0,Barranquilla,Cliente_073
+110,2025-08-08,Teclado Mecánico,Accesorios,5.0,193600,Bucaramanga,Cliente_058
+233,2025-09-24,Teclado Mecánico,Accesorios,2.0,195500.0,Pereira,Cliente_011
+57,2025-02-15,Disco SSD 500GB,Almacenamiento,4.0,233900.0,Barranquilla,Cliente_006
+405,2025-11-17,Laptop Lenovo IdeaPad,Tecnología,4.0,2491700.0,Bucaramanga,Cliente_080
+242,2025-10-30,Parlante Bluetooth,Audio,1.0,257800.0,Cali,Cliente_062
+88,2025-01-12,Parlante Bluetooth,Audio,3.0,247300.0,Ibagué,Cliente_046
+347,2025-11-07,Disco SSD 1TB,Almacenamiento,7.0,402000.0,,Cliente_171
+98,2025-03-17,Disco SSD 500GB,Almacenamiento,5.0,250200.0,Villavicencio,Cliente_028
+570,2025-02-18,Parlante Bluetooth,Audio,,244300.0,Ibagué,Cliente_153
+117,2025-06-05,Parlante Bluetooth,Audio,6.0,258200.0,Barranquilla,Cliente_008
+202,2025-12-10,Tablet Samsung,Tecnología,7.0,1183100.0,Villavicencio,Cliente_177
+580,2025-11-21,Monitor Samsung 24,Tecnología,1.0,735100.0,Bucaramanga,Cliente_120
+324,2025-01-20,Monitor Samsung 24,Tecnología,4.0,763900.0,Cali,Cliente_152
+194,2025-01-29,Parlante Bluetooth,Audio,1.0,256800.0,Bucaramanga,Cliente_040
+237,2025-07-20,Cable HDMI,Accesorios,5.0,42500.0,Bogotá,Cliente_073
+214,2025-10-18,Disco SSD 500GB,Almacenamiento,7.0,243300.0,Pereira,Cliente_088
+129,2025-06-22,Tablet Samsung,Tecnología,6.0,1200300.0,Barranquilla,Cliente_004
+481,2025-08-05,Parlante Bluetooth,Audio,6.0,257000.0,Barranquilla,Cliente_070
+523,2025-07-10,Laptop Lenovo IdeaPad,Tecnología,7.0,2363500.0,Medellín,Cliente_004
+558,2025-02-14,Cable HDMI,Accesorios,5.0,48100.0,Villavicencio,
+537,2025-09-21,Tablet Samsung,Tecnología,4.0,1162900.0,Bogotá,Cliente_105
+531,2025-03-24,Disco SSD 1TB,Almacenamiento,7.0,366800.0,Bucaramanga,Cliente_179
+602,2025-02-17,Monitor Samsung 24,Tecnología,7.0,836900.0,Ibagué,Cliente_073
+644,2025-05-29,Teclado Mecánico,Accesorios,4.0,225900.0,Cali,Cliente_054
+297,2025-10-01,Laptop Lenovo IdeaPad,Tecnología,1.0,2534300.0,Ibagué,Cliente_027
+226,2025-12-07,Cable HDMI,Accesorios,6.0,48000.0,Bogotá,Cliente_100
+586,2025-04-19,Cable HDMI,Accesorios,7.0,42500.0,Pereira,Cliente_022
+391,2025-06-07,Tablet Samsung,Tecnología,7.0,1257200.0,Villavicencio,Cliente_055
+90,2025-03-31,Parlante Bluetooth,Audio,5.0,274300.0,Bucaramanga,Cliente_162
+359,2025-09-22,Teclado Mecánico,Accesorios,6.0,214800.0,Medellín,Cliente_085
+591,2025-05-19,Teclado Mecánico,Accesorios,5.0,214200.0,Cali,Cliente_179
+396,2025-08-14,Audífonos JBL,Audio,4.0,334400.0,Barranquilla,Cliente_142
+427,2025-08-02,Cable HDMI,Accesorios,7.0,46100.0,Pereira,Cliente_177
+533,2025-09-08,Memoria RAM 16GB,Componentes,6.0,295300.0,Cali,Cliente_119
+639,2025-09-13,Teclado Mecánico,Accesorios,7.0,196900.0,Bucaramanga,Cliente_105
+567,2025-09-16,Tablet Samsung,Tecnología,1.0,1180900.0,Cali,Cliente_155
+20,2025-09-25,Disco SSD 500GB,Almacenamiento,7.0,248200.0,Bogotá,Cliente_033
+15,2025-07-09,Webcam HD,Accesorios,6.0,166500.0,Pereira,Cliente_082
+253,2025-09-08,Teclado Mecánico,Accesorios,2.0,226500.0,Ibagué,Cliente_013
+638,2025-01-28,Audífonos JBL,Audio,6.0,343400.0,Pereira,Cliente_041
+329,2025-01-14,Monitor Samsung 24,Tecnología,6.0,740000.0,Bucaramanga,Cliente_002
+121,2025-09-13,Teclado Mecánico,Accesorios,5.0,224800.0,Barranquilla,Cliente_047
+333,2025-06-13,Audífonos JBL,Audio,5.0,311000.0,Barranquilla,Cliente_151
+286,2025-08-30,Monitor Samsung 24,Tecnología,4.0,803400.0, CALI,Cliente_017
+334,2025-09-27,Cable HDMI,Accesorios,2.0,41900.0,Pereira,Cliente_093
+43,2025-05-08,Monitor Samsung 24,Tecnología,7.0,739400.0,Ibagué,Cliente_082
+197,2025-05-29,Laptop Lenovo IdeaPad,Tecnología,7.0,2376100.0,Ibagué,Cliente_053
+346,2025-12-18,Laptop Lenovo IdeaPad,Tecnología,7.0,2517700.0,Bucaramanga,Cliente_005
+34,2025-11-14,Disco SSD 1TB,Almacenamiento,1.0,384000.0,Villavicencio,Cliente_052
+251,2025-01-04,Memoria RAM 16GB,Componentes,7.0,298900.0,Barranquilla,Cliente_153
+228,2025-12-08,Disco SSD 500GB,Almacenamiento,7.0,220200.0,Barranquilla,Cliente_027
+453,2025-01-10,Parlante Bluetooth,Audio,2.0,247700.0,Barranquilla,Cliente_128
+568,2025-12-16,Audífonos JBL,Audio,2.0,321500.0,Pereira,Cliente_002
+540,2025-10-31,Audífonos JBL,Audio,7.0,328100.0,Cali,
+413,2025-09-20,Audífonos JBL,Audio,1.0,334500.0,Pereira,Cliente_144
+431,2025-08-16,Monitor Samsung 24,Tecnología,5.0,766000.0,Medellín,Cliente_180
+280,2025-06-09,Tablet Samsung,Tecnología,3.0,1325800.0,,Cliente_158
+514,2025-05-13,Monitor Samsung 24,Tecnología,2.0,743800.0,Medellín,Cliente_009
+562,2025-11-20,Monitor Samsung 24,Tecnología,2.0,749600.0,Bucaramanga,Cliente_161
+291,2025-01-04,Mouse Logitech,Accesorios,6.0,84600.0,Villavicencio,Cliente_099
+478,2025-12-30,Tablet Samsung,Tecnología,6.0,1195000.0,Cali,Cliente_057
+311,2025-04-16,Parlante Bluetooth,Audio,2.0,273400.0,Ibagué,Cliente_172
+17,2025-12-10,Laptop Lenovo IdeaPad,Tecnología,1.0,2640900.0,Villavicencio,Cliente_136
+159,2025-11-11,Parlante Bluetooth,Audio,2.0,249400.0,Barranquilla,Cliente_121
+244,2025-09-25,Disco SSD 1TB,Almacenamiento,1.0,415200.0,Ibagué,Cliente_059
+67,2025-04-02,Disco SSD 500GB,Almacenamiento,3.0,228900.0,Bogotá,Cliente_066
+147,2025-02-16,Cable HDMI,Accesorios,1.0,42100.0,Villavicencio,Cliente_056
+422,2025-07-15,Monitor Samsung 24,Tecnología,7.0,736200.0,Bogotá,Cliente_052
+360,2025-04-27,Parlante Bluetooth,Audio,2.0,259100.0,Barranquilla,Cliente_154
+624,2025-01-22,Monitor Samsung 24,Tecnología,5.0,817900.0,Bucaramanga,Cliente_004
+120,2025-07-31,Disco SSD 1TB,Almacenamiento,7.0,392300.0,Barranquilla,Cliente_157
+473,2025-12-31,Disco SSD 1TB,Almacenamiento,5.0,402300.0,Medellín,Cliente_147
+141,2025-04-05,Tablet Samsung,Tecnología,7.0,1175600.0,Medellín,
+66,2025-11-17,Tablet Samsung,Tecnología,4.0,1309700.0,Pereira,Cliente_144
+239,2025-05-11,Parlante Bluetooth,Audio,1.0,249500.0,Bogotá,Cliente_108
+10,2025-04-02,Parlante Bluetooth,Audio,5.0,248800.0,Ibagué,Cliente_172
+443,2025-01-18,Memoria RAM 16GB,Componentes,1.0,274000.0,Barranquilla,Cliente_141
+572,2025-03-14,Mouse Logitech,Accesorios,4.0,87400.0,Barranquilla,Cliente_122
+19,2025-08-19,Teclado Mecánico,Accesorios,1.0,213600.0, bogota ,Cliente_041
+409,2025-06-09,Monitor Samsung 24,Tecnología,2.0,752300.0,Barranquilla,
+463,,Parlante Bluetooth,Audio,7.0,268400.0,Pereira,Cliente_162
+154,,Audífonos JBL,Audio,4.0,295400.0,Ibagué,Cliente_086
+571,2025-10-04,Memoria RAM 16GB,Componentes,1.0,265300.0,Bucaramanga,Cliente_107
+433,2025-01-08,Audífonos JBL,Audio,6.0,336900.0,,Cliente_138
+432,2025-02-20,Teclado Mecánico,Accesorios,7.0,219500.0,Medellín,Cliente_005
+485,2025-05-23,Webcam HD,Accesorios,3.0,188000.0,Pereira,Cliente_149
+509,2025-09-03,Disco SSD 500GB,Almacenamiento,3.0,228000.0,Medellín,Cliente_032
+328,2025-12-21,Mouse Logitech,Accesorios,5.0,88200,Bogotá,Cliente_008
+257,2025-06-26,Memoria RAM 16GB,Componentes,4.0,295800.0,Medellín,Cliente_173
+312,2025-05-03,Laptop Lenovo IdeaPad,Tecnología,3.0,2302700.0,Bucaramanga,Cliente_009
+152,2025-08-26,,Accesorios,7.0,216300.0,Medellín,Cliente_018
+305,2025-04-12,Cable HDMI,Accesorios,5.0,46900.0,Villavicencio,Cliente_136
+273,2025-03-31,Disco SSD 1TB,Almacenamiento,3.0,403900.0,Bogotá,Cliente_037
+331,2025-05-10,Webcam HD,Accesorios,7.0,171100.0,Ibagué,Cliente_070
+414,2025-04-13,Disco SSD 500GB,Almacenamiento,1.0,235400.0,Pereira,Cliente_017
+134,2025-03-16,Audífonos JBL,Audio,5.0,327100.0,Medellín,Cliente_103
+32,2025-05-17,Memoria RAM 16GB,Componentes,6.0,285500.0,Bucaramanga,Cliente_165
+459,2025-08-15,Monitor Samsung 24,Tecnología,4.0,815000.0,Bogotá,Cliente_037
+162,2025-08-31,Webcam HD,Accesorios,7.0,184600.0,Ibagué,Cliente_040
+340,2025-04-29,Monitor Samsung 24,Tecnología,2.0,722500.0,Medellín,Cliente_059
+287,2025-07-12,Disco SSD 500GB,Almacenamiento,6.0,242800.0,Bucaramanga,Cliente_120
+249,2025-10-28,Webcam HD,Accesorios,3.0,176700.0,Bogotá,Cliente_131
+614,2025-07-07,Cable HDMI,Accesorios,3.0,45400.0,Barranquilla,Cliente_173
+546,2025-09-17,Memoria RAM 16GB,Componentes,7.0,268200.0,Bucaramanga,Cliente_076
+2,2025-11-27,Memoria RAM 16GB,Componentes,2.0,269300.0,Medellín,Cliente_088
+208,2025-04-23,Mouse Logitech,Accesorios,2.0,85500.0,Bogotá,Cliente_166
+610,2025-01-01,Laptop Lenovo IdeaPad,Tecnología,4.0,2581000.0,Ibagué,Cliente_037
+265,2025-09-16,Parlante Bluetooth,Audio,1.0,247000.0,Pereira,Cliente_006
+275,2025-02-09,Teclado Mecánico,Accesorios,2.0,212400.0,Bogotá,Cliente_040
+71,2025-01-05,Audífonos JBL,Audio,4.0,305500.0,Ibagué,Cliente_006
+445,2025-09-13,Memoria RAM 16GB,Componentes,4.0,264700.0,Bucaramanga,Cliente_150
+553,2025-12-19,Webcam HD,Accesorios,3.0,184600.0,Bogotá,Cliente_039
+99,2025-05-24,Monitor Samsung 24,Tecnología,3.0,779100.0,Barranquilla,Cliente_069
+566,2025-07-29,Cable HDMI,Accesorios,5.0,41500.0,Medellín,Cliente_118
+22,2025-08-15,Webcam HD,Accesorios,6.0,185800.0,Barranquilla,Cliente_175
+415,2025-08-09,Audífonos JBL,Audio,7.0,305700.0,Cali,Cliente_164
+518,2025-02-10,Audífonos JBL,Audio,3.0,301700.0,Medellín,Cliente_175
+150,2025-01-28,Webcam HD,Accesorios,6.0,167600.0,Ibagué,Cliente_078
+355,2025-11-27,Tablet Samsung,Tecnología,7.0,1237100.0,Villavicencio,Cliente_088
+623,2025-01-14,Monitor Samsung 24,Tecnología,4.0,802800.0,Bogotá,Cliente_156
+53,2025-01-22,Laptop Lenovo IdeaPad,Tecnología,4.0,2453500.0,Bucaramanga,Cliente_158
+199,2025-03-31,Teclado Mecánico,Accesorios,7.0,207100.0,Medellín,Cliente_038
+123,2025-03-06,Audífonos JBL,Audio,7.0,315500.0,Bogotá,Cliente_177
+204,2025-04-28,Monitor Samsung 24,Tecnología,1.0,736200.0,Bucaramanga,Cliente_063
+68,2025-06-02,Memoria RAM 16GB,Componentes,7.0,263800.0,Bogotá,Cliente_063
+224,,Memoria RAM 16GB,Componentes,1.0,268600.0,Bucaramanga,Cliente_004
+128,2025-05-25,Audífonos JBL,Audio,2.0,337900.0,Barranquilla,Cliente_078
+140,2025-08-23,Audífonos JBL,Audio,2.0,311200.0,Medellín,Cliente_115
+418,2025-03-03,Audífonos JBL,Audio,6.0,307100.0,Medellín,Cliente_149
+219,2025-01-20,Teclado Mecánico,Accesorios,7.0,194400.0,Barranquilla,Cliente_037
+547,2025-06-11,Teclado Mecánico,Accesorios,6.0,202000.0,Medellín,Cliente_105
+158,2025-04-11,Laptop Lenovo IdeaPad,Tecnología,4.0,2304000.0,Bucaramanga,Cliente_180
+95,2025-01-13,Audífonos JBL,Audio,4.0,316400.0,Ibagué,Cliente_099
+256,2025-09-23,Webcam HD,Accesorios,4.0,188600.0,Bucaramanga,Cliente_153
+40,2025-08-28,Disco SSD 1TB,Almacenamiento,6.0,392200.0,Pereira,Cliente_097
+131,,Webcam HD,Accesorios,7.0,,Bucaramanga,Cliente_118
+474,2025-03-10,Parlante Bluetooth,Audio,3.0,257100.0,Barranquilla,Cliente_064
+190,2025-01-23,Parlante Bluetooth,Audio,6.0,248700.0,Ibagué,Cliente_090
+403,2025-05-10,Audífonos JBL,Audio,3.0,303300.0,Medellín,Cliente_020
+39,2025-11-21,Laptop Lenovo IdeaPad,Tecnología,7.0,2568800.0,Cali,Cliente_098
+243,,Webcam HD,Accesorios,3.0,181500.0,Villavicencio,Cliente_118
+354,2025-01-19,Disco SSD 1TB,Almacenamiento,6.0,416600.0,Bucaramanga,Cliente_082
+535,2025-11-16,Monitor Samsung 24,Tecnología,1.0,747800.0,Villavicencio,Cliente_120
+504,2025-06-13,Webcam HD,Accesorios,4.0,183200.0,Barranquilla,Cliente_085
+160,2025-07-17,Laptop Lenovo IdeaPad,Tecnología,5.0,2293900.0,Bucaramanga,
+395,2025-08-19,Disco SSD 1TB,Almacenamiento,6.0,364400.0,Pereira,Cliente_161
+538,2025-09-12,Disco SSD 1TB,Almacenamiento,1.0,420500.0,Ibagué,Cliente_016
+241,2025-11-01,Audífonos JBL,Audio,4.0,335700.0,Barranquilla,Cliente_017
+14,2025-12-17,Parlante Bluetooth,Audio,6.0,277700.0,Pereira,Cliente_015
+476,2025-05-06,Monitor Samsung 24,Tecnología,6.0,796400.0,Ibagué,Cliente_039
+577,2025-07-12,Monitor Samsung 24,Tecnología,5.0,828700.0,Ibagué,Cliente_148
+315,2025-03-25,Cable HDMI,Accesorios,7.0,42000.0,Pereira,
+362,2025-12-09,Monitor Samsung 24,Tecnología,7.0,766800.0,Bucaramanga,Cliente_046
+321,2025-07-21,Webcam HD,Accesorios,1.0,174800.0,Medellín,Cliente_035
+565,2025-04-15,Memoria RAM 16GB,Componentes,2.0,292700.0,Bogotá,Cliente_051
+356,2025-05-23,Disco SSD 1TB,Almacenamiento,7.0,359200.0,Villavicencio,Cliente_076
+35,2025-04-23,Disco SSD 500GB,Almacenamiento,6.0,242400.0,Barranquilla,Cliente_113
+335,,Parlante Bluetooth,Audio,4.0,273700.0,Barranquilla,Cliente_020
+377,2025-06-10,Laptop Lenovo IdeaPad,Tecnología,3.0,2594700.0,Ibagué,Cliente_149
+185,2025-11-26,Mouse Logitech,Accesorios,2.0,84900.0,Villavicencio,Cliente_118
+424,2025-04-23,Disco SSD 1TB,Almacenamiento,2.0,407800.0,Villavicencio,Cliente_017
+326,2025-09-19,Mouse Logitech,Accesorios,4.0,90100.0,Ibagué,Cliente_170
+188,2025-04-05,Monitor Samsung 24,Tecnología,4.0,813900.0,Medellín,Cliente_164
+285,2025-02-06,,Almacenamiento,4.0,,Barranquilla,Cliente_022
+392,2025-05-16,Disco SSD 500GB,Almacenamiento,1.0,227500.0, CALI,Cliente_003
+634,2025-04-30,Laptop Lenovo IdeaPad,Tecnología,4.0,2502000.0,Ibagué,Cliente_138
+166,2025-04-28,Disco SSD 500GB,Almacenamiento,5.0,223200.0,Cali,Cliente_019
+348,2025-05-25,Parlante Bluetooth,Audio,6.0,259900.0,Bogotá,Cliente_136
+299,2025-02-19,Webcam HD,Accesorios,7.0,173700.0,Cali,Cliente_131
+536,2025-11-05,Monitor Samsung 24,Tecnología,1.0,820500.0,Medellín,Cliente_078
+230,2025-06-22,Tablet Samsung,Tecnología,5.0,1185100.0,Villavicencio,Cliente_154
+42,2025-12-12,Disco SSD 500GB,Almacenamiento,3.0,224500.0,Medellín,Cliente_147
+588,2025-02-11,Disco SSD 1TB,Almacenamiento,5.0,410800.0,Bogotá,Cliente_160
+544,2025-04-03,Tablet Samsung,Tecnología,3.0,1328500.0,Bucaramanga,Cliente_021
+447,2025-02-19,Audífonos JBL,Audio,7.0,299100.0,Ibagué,Cliente_151
+448,2025-06-20,Webcam HD,Accesorios,4.0,181500.0,Barranquilla,Cliente_097
+350,,Monitor Samsung 24,Tecnología,1.0,792600.0,Pereira,Cliente_142
+46,2025-09-11,Laptop Lenovo IdeaPad,Tecnología,2.0,2644500.0,Cali,Cliente_037
+109,2025-12-12,Disco SSD 1TB,Almacenamiento,7.0,385300.0,Medellín,Cliente_039
+30,2025-08-19,Parlante Bluetooth,Audio,7.0,276500.0,Bucaramanga,Cliente_129
+182,2025-01-15,Teclado Mecánico,Accesorios,2.0,197900.0,Ibagué,Cliente_157
+420,2025-01-13,Webcam HD,Accesorios,7.0,178300.0,Barranquilla,Cliente_082
+105,2025-01-05,Mouse Logitech,Accesorios,3.0,87800.0,Barranquilla,Cliente_165
+61,2025-11-19,Parlante Bluetooth,Audio,7.0,274300.0,Pereira,Cliente_174
+84,2025-01-16,Laptop Lenovo IdeaPad,Tecnología,5.0,2522100.0,Pereira,Cliente_080
+491,2025-01-28,Laptop Lenovo IdeaPad,Tecnología,5.0,2343100.0,Bogotá,Cliente_043
+316,2025-01-03,Disco SSD 1TB,Almacenamiento,2.0,407700.0,Ibagué,Cliente_041
+451,2025-03-13,Webcam HD,Accesorios,2.0,176600.0,Villavicencio,Cliente_108
+382,2025-08-06,Disco SSD 500GB,Almacenamiento,6.0,220100.0,Bucaramanga,Cliente_042
+423,2025-08-21,Disco SSD 500GB,Almacenamiento,2.0,234100.0,Barranquilla,Cliente_180
+497,2025-03-09,Memoria RAM 16GB,Componentes,5.0,269700.0,Bucaramanga,Cliente_116
+626,2025-05-07,Mouse Logitech,Accesorios,2.0,89400.0,Medellín,Cliente_105
+524,2025-05-23,Parlante Bluetooth,Audio,1.0,248200.0,Ibagué,Cliente_021
+446,2025-10-12,Cable HDMI,Accesorios,1.0,48100.0,Barranquilla,Cliente_002
+1,2025-04-17,Memoria RAM 16GB,Componentes,4.0,305600.0,Pereira,Cliente_021
+582,2025-08-22,Cable HDMI,Accesorios,6.0,41600.0,Medellín,Cliente_050
+458,2025-05-12,Webcam HD,Accesorios,3.0,188900.0,,
+489,,Disco SSD 500GB,Almacenamiento,1.0,223100.0,Bogotá,Cliente_117
+89,2025-02-04,Mouse Logitech,Accesorios,5.0,79500.0,Ibagué,Cliente_081
+484,2025-05-07,Laptop Lenovo IdeaPad,Tecnología,3.0,2390200.0,Ibagué,Cliente_160
+461,2025-01-20,Monitor Samsung 24,Tecnología,4.0,816700.0,Villavicencio,Cliente_119
+78,2025-03-17,Disco SSD 1TB,Almacenamiento,5.0,385000.0,Bogotá,Cliente_144
+269,2025-03-30,Teclado Mecánico,Accesorios,6.0,214100.0,Villavicencio,Cliente_068
+124,2025-08-05,Cable HDMI,Accesorios,5.0,46800.0,Bucaramanga,Cliente_059
+298,2025-05-25,Webcam HD,Accesorios,4.0,166200.0,Barranquilla,Cliente_053
+96,2025-03-03,Tablet Samsung,Tecnología,6.0,1330500.0,Cali,Cliente_112
+12,2025-02-23,Webcam HD,Accesorios,4.0,169700.0,Bogotá,Cliente_004
+115,,Teclado Mecánico,Accesorios,3.0,225800.0,Villavicencio,Cliente_049
+429,2025-01-08,Disco SSD 500GB,Almacenamiento,1.0,232900.0,Barranquilla,
+258,2025-05-26,Webcam HD,Accesorios,6.0,184900.0,Bucaramanga,Cliente_037
+353,2025-11-20,Audífonos JBL,Audio,5.0,309200.0,Bogotá,Cliente_125
+532,2025-10-11,Teclado Mecánico,Accesorios,2.0,216700.0,Cali,Cliente_173
+170,2025-05-18,Webcam HD,Accesorios,2.0,176400.0,Cali,Cliente_130
+240,2025-12-20,Disco SSD 500GB,Almacenamiento,3.0,226400.0,Cali,Cliente_019
+278,2025-06-19,Cable HDMI,Accesorios,5.0,46400.0,Cali,Cliente_155
+161,2025-11-14,Monitor Samsung 24,Tecnología,6.0,740900.0,Bucaramanga,Cliente_095
+74,2025-12-12,Teclado Mecánico,Accesorios,4.0,218200.0,Barranquilla,Cliente_117
+530,2025-12-10,Cable HDMI,Accesorios,4.0,41500.0,Bucaramanga,Cliente_154
+63,2025-09-30,Cable HDMI,Accesorios,2.0,47700.0,Pereira,Cliente_161
+493,2025-01-02,Laptop Lenovo IdeaPad,Tecnología,2.0,2319000.0,Bucaramanga,Cliente_112
+48,2025-04-30,Teclado Mecánico,Accesorios,4.0,223000.0,Villavicencio,Cliente_152
+592,2025-04-14,Laptop Lenovo IdeaPad,Tecnología,3.0,2599100.0,Bucaramanga,Cliente_152
+650,2025-08-16,,Accesorios,5.0,174000.0,Bogotá,Cliente_090
+506,2025-09-20,Disco SSD 500GB,Almacenamiento,4.0,237200.0,Pereira,Cliente_131
+21,2025-10-20,Memoria RAM 16GB,Componentes,7.0,292700.0,Medellín,Cliente_172
+425,2025-05-10,Webcam HD,Accesorios,1.0,187400.0,Cali,Cliente_048
+193,2025-04-16,Audífonos JBL,Audio,5.0,330600.0,Villavicencio,Cliente_092
+643,2025-09-20,Mouse Logitech,Accesorios,1.0,80100.0,Cali,Cliente_018
+216,2025-09-20,Memoria RAM 16GB,Componentes,2.0,262800.0,Villavicencio,Cliente_151
+245,2025-02-16,Parlante Bluetooth,Audio,1.0,278500.0,Pereira,Cliente_010
+364,2025-10-08,Memoria RAM 16GB,Componentes,7.0,265500.0,Cali,Cliente_051
+60,2025-05-08,Memoria RAM 16GB,Componentes,1.0,276700.0,Bogotá,
+222,2025-05-08,Webcam HD,Accesorios,3.0,186000.0, PEREIRA,Cliente_114
+177,2025-03-03,Audífonos JBL,Audio,3.0,328500.0,Cali,Cliente_089
+450,2025-05-08,Memoria RAM 16GB,Componentes,4.0,291200.0,Barranquilla,Cliente_111
+56,2025-02-18,Teclado Mecánico,Accesorios,4.0,194000.0,Pereira,Cliente_017
+255,2025-08-24,Laptop Lenovo IdeaPad,Tecnología,5.0,2268700.0,Villavicencio,Cliente_016
+386,2025-06-09,Disco SSD 500GB,Almacenamiento,5.0,218800.0,Barranquilla,Cliente_008
+198,2025-04-27,Tablet Samsung,Tecnología,2.0,1310600.0,Bogotá,Cliente_169
+69,2025-11-01,Disco SSD 1TB,Almacenamiento,2.0,412500.0,Cali,Cliente_170
+169,2025-06-10,Monitor Samsung 24,Tecnología,5.0,784100.0,Bucaramanga,Cliente_178
+186,2025-08-16,Disco SSD 1TB,Almacenamiento,5.0,365700.0,Barranquilla,Cliente_180
+36,2025-01-02,Webcam HD,Accesorios,1.0,168500.0,Bogotá,Cliente_054
+642,2025-04-10,Cable HDMI,Accesorios,6.0,47700.0,Barranquilla,Cliente_087
